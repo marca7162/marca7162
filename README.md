@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - addymar06@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: Proficient in Java, Java Script, and Python
 
 <!---
 marca7162/marca7162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
